@@ -22,12 +22,14 @@ To use these programs, follow these steps:
 
    ```bash
    git clone https://github.com/krishng03/4th-SEM-RVCE-DAA-CODES.git
+   ```
 
 2. **Compile the Programs:**
 
     Use an appropriate C compiler (e.g., GCC) to compile the programs. For example:
     ```bash
     gcc 1merge_sort.c -o merge_sort
+    ```
     Replace 1merge_sort.c with the name of the program you want to compile.
 
 3. **Run the Programs:**
@@ -35,4 +37,5 @@ To use these programs, follow these steps:
    Execute the compiled program:
    ```bash
    ./merge_sort
+   ```
    Follow the program\'s prompts or input requirements.
